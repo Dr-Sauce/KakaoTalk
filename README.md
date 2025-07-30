@@ -1,4 +1,5 @@
-<img width="64" height="64" alt="App Icon Template copy" src="https://github.com/user-attachments/assets/b2a42136-072c-4dc4-b438-94ec8297c13c" />
+<img width="64" height="64" alt="App Icon Template copy" src="https://github.com/user-attachments/assets/3a4064b1-14ec-4430-b6fe-cd119a19f282" />
+
 
 # KakaoTalk
 KakaoTalk IPA file decrypted for sideloading. (The file is a plain IPA. No tweaks are injected.)

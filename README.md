@@ -1,12 +1,12 @@
 <img width="64" height="64" alt="App Icon Template copy" src="https://github.com/user-attachments/assets/9e46f44a-fa35-45f5-a0d8-f871c1be145d" />
 
 # KakaoTalk
-KakaoTalk IPA decrypted for sideloading. (No tweaks included)
+KakaoTalk IPA decrypted for sideloading. 
 
-Does not work with TrollFools.
+(No tweaks included)
 
 
 # Source
-[**NoAppThinning**](https://alias20.gitlab.io/apt/debs/it.ned.noappthinning_1.1_iphoneos-arm64.deb) - Used for downloading the full app.
+**[ipatoolUI](https://github.com/Haleclipse/ipatoolUI)** - Used for downloading KakaoTalk.
 
 **[TrollDecrypt](https://github.com/donato-fiore/TrollDecrypt)** - Used for decrypting the IPA.
